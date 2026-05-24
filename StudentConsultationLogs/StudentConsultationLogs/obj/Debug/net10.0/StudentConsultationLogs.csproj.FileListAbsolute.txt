@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.exe
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.deps.json
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.runtimeconfig.json
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.dll
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\bin\Debug\net10.0\StudentConsultationLogs.pdb
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.dll
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\obj\Debug\net10.0\refint\StudentConsultationLogs.dll
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.pdb
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\obj\Debug\net10.0\StudentConsultationLogs.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\StudentConsultationLogs\StudentConsultationLogs\obj\Debug\net10.0\ref\StudentConsultationLogs.dll
